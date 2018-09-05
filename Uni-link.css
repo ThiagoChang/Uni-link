@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F3F3F3;
+}
+.navi-wrapper{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    opacity: 0.8;
+    z-index: 9;
+}
+.logo{
+    position: relative;
+    height: 38px;
+    float: left;
+    top: 6px;
+    left: 80px;
+    /*transition: 0.2s*/
+}
+.navi{
+    width: 630px;
+    height: 50px;
+    float: right;
+}
+.navi-li{
+    float:left;
+    list-style-type: none;
+    line-height: 50px;
+    text-align: center;
+    height: 40px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+#brand:hover{
+    height: 200px;
+    background-color: black;
+}
+.navi-li a{
+    display: block;
+    height: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+    font-family: 文泉驿等宽微米黑;
+    font-size: 1em;
+}
+.navi-li a:hover{
+    color: deepskyblue;
+    transform: scale(1.2);
+}
+#brand{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+#products{
+    height: 50px;
+    overflow: hidden;
+    transition:0.3s;
+    background-color: black;
+}
+#products:hover{
+    height: 200px;
+    /*transform: scale(1.1);*/
+}
+#news{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#jobs{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#contact-us{
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*下面是screen*/
+.screen-one{
+    position: relative;
+    height: 680px;
+    width: 100%;
+    overflow: hidden;
+}
+#span-activity{
+    left: 20%;
+    z-index: 8;
+    position: absolute;
+    top: 300px;
+    color: white;
+    font-size: 2.5em;
+    font-family: serif;
+}
+#span-activity a{
+    text-decoration: none;
+    color: white;
+}
+.screen-two{
+    position: relative;
+    top: 10px;
+    height: 680px;
+    width: 100%;
+    overflow: hidden;
+}
+#span-armadillo{
+    left: 30%;
+    z-index: 8;
+    position: absolute;
+    top: 270px;
+    color: white;
+    font-size: 3em;
+    font-family: serif;
+}
+#span-armadillo a{
+    text-decoration: none;
+    color: white;
+}
+.screen-three{
+    position: relative;
+    top: 20px;
+    height: 680px;
+    width: 100%;
+    overflow: hidden;
+}
+#span-certificates{
+    left: 33%;
+    z-index: 8;
+    position: absolute;
+    top: 280px;
+    color: white;
+    font-size: 3em;
+    font-family: serif;
+}
+#span-certificates a{
+    text-decoration: none;
+    color: white;
+}
+.screen-four{
+    position: relative;
+    top: 30px;
+    height: 680px;
+    width: 100%;
+    overflow: hidden;
+}
+#span-operation{
+    left: 33%;
+    z-index: 8;
+    position: absolute;
+    top: 280px;
+    color: white;
+    font-size: 3em;
+    font-family: serif;
+}
+#span-operation a{
+    text-decoration: none;
+    color: white;
+}
+.screen-five{
+    position: relative;
+    top: 40px;
+    height: 680px;
+    width: 100%;
+    overflow: hidden;
+}
+#span-tech-team{
+    left: 30%;
+    z-index: 8;
+    position: absolute;
+    top: 250px;
+    color: white;
+    font-size: 3em;
+    font-family: serif;
+}
+#span-tech-team a{
+    text-decoration: none;
+    color: white;
+}
+.screen-final{
+    position: relative;
+    top: 50px;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+.info{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+.span-contact{
+    z-index: 8;
+    color: white;
+    font-family: serif;
+}
+#contact-name{
+    position: relative;
+    font-size: 3em;
+    font-family: 文泉驿等宽微米黑;
+}
+#contact-site{
+    position: relative;
+    top: 15px;
+}
+#contact-number-one{
+    position: relative;
+    top: 25px;
+}
+#contact-number-two{
+    position: relative;
+    top: 35px;
+}
+#contact-number-three{
+    position: relative;
+    top: 45px;
+}
+#contact-address{
+    position: relative;
+    top: 55px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.description{
+    width: 70%;
+    position: absolute;
+    top: 120px;
+    left: 15%;
+    font-size: 1.5em;
+}
