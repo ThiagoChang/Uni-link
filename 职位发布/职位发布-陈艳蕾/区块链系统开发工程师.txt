@@ -1,0 +1,43 @@
+Block Chain System Developer
+
+Responsibilities:
+
+1.Developing financial products based on block chain tech, designing and upgrading  its architect, and compiling some of the core code;
+
+2.Taking part in technical decision-making and providing solutions;
+
+3.Solving underlying risks in the system and insure its running in a safe, rapid and stable environment.
+
+4.Explore the scenarios where block chain can be deployed and offer support to the development of the company.
+
+Requirements:
+
+1.Familiar with anyone of C++, Java, Python;
+
+2.Know the designing and developing of distributed system;
+
+3.Familiar with block chain systems such as Bitcoin and Ethereum, know deeply the core tech of block chain;
+
+4.Familiar with Linux; Better with exprience of setting up servers.
+
+区块链开发工程师
+
+职责：
+
+1.负责基于区块链技术的互联网金融产品研发，架构设计及升级，承担部分核心代码编写； 
+
+2.参与制定技术决策和技术方案 ；
+
+3.解决各类潜在系统技术风险，保证系统的安全、稳定、快速运行 ;
+
+4.探索区块链技术的落地场景，为公司业务发展提供持续支撑 。
+
+要求：
+
+1.熟悉C++，Java，python任意一种开发语言；
+
+2.熟悉分布式软件设计及开发；
+
+3.熟悉区块链平台产品，如Bitcoin，Ethereum等，深入理解区块链核心技术；
+
+4.对Linux操作环境比较熟悉，对服务器搭建有一定经验优先。

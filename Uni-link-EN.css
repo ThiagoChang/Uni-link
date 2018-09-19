@@ -236,18 +236,136 @@ body{
 
 
 
-.brand-screen-one{
-    height: 900px;
-}
+/*针对所有页面的描述性段落*/
 .description{
     width: 70%;
-    position: absolute;
-    font-size: 1.5em;
     left: 15%;
+    font-size: 1.5em;
 }
-#intro{
-    position: absolute;
-    top: 120px;
-    height: 100px;
+
+
+
+
+
+/*品牌CSS*/
+.screen-final-brand{
+    position: relative;
+    top: 50px;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+.brand-screen-one{
+    height: 900px;
+    background-color: slategrey;
+    position: relative;
+}
+.brand-screen-two{
+    height: 900px;
+    background-color: slategrey;
+    position: relative;
+    top: 10px;
+}
+.brand-screen-three{
+    height: 900px;
+    background-color: darkslategrey;
+    position: relative;
+    top: 20px;
+}
+.brand-screen-four{
+    height: 900px;
+    background-color: darkslategrey;
+    position: relative;
+    top: 30px;
+}
+.brand-screen-five{
+    height: 900px;
+    background-color: darkslategrey;
+    position: relative;
+    top: 40px;
+}
+#company-intro-one{
+    position: relative;
     background-color: darksalmon;
+    top: 700px;
+}
+#company-intro-two{
+    position: relative;
+    background-color: cornflowerblue;
+    top: 600px;
+}
+#company-intro-three{
+    position: relative;
+    background-color: slategrey;
+    top: 850px;
+}
+
+
+
+
+
+/*工作机会CSS*/
+.screen-final-jobs{
+    position: relative;
+    top: 20px;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+.jobs-screen-one{
+    position: relative;
+    width: 100%;
+    height: 680px;
+    overflow: hidden;
+}
+#jobs-slogan-EN{
+    position: absolute;
+    top: 420px;
+    font-size: 1.7em;
+    z-index: 8;
+    color: white;
+    text-align: justify;
+}
+.jobs-screen-two{
+    position: relative;
+    top: 10px;
+    width: 100%;
+    height: 680px;
+    overflow: hidden;
+    background-color: slategrey;
+}
+.job-quiz{
+    position: relative;
+    left: 20%;
+    top: 150px;
+    font-size: 2.3em;
+    color: #F3F3F3;
+}
+.job-kind{
+    position: relative;
+    left: 6%;
+    top: 200px;
+    height: 290px;
+    width: 280px;
+    width: 280px;
+    background-color: white;
+    float: left;
+    margin: 50px;
+    padding: 10px;
+    border-radius:10px;
+    transition: 0.3s;
+}
+.job-kind:hover{
+    transform: scale(1.1);
+    box-shadow: 8px 5px 30px 1px black;
+    background-color: white;
+}
+.job-kind div{
+    text-align: center;
+    position: relative;
+    margin-top: 40px;
+}
+.job-kind a{
+    text-decoration: underline;
+    color: cornflowerblue;
 }

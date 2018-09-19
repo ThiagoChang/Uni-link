@@ -47,7 +47,7 @@ body{
     text-decoration: none;
     color: white;
     transition: 0.2s;
-    font-family: 文泉驿等宽微米黑;
+    /*font-family: 文泉驿等宽微米黑;*/
     font-size: 1em;
 }
 .navi-li a:hover{
@@ -95,7 +95,7 @@ body{
     top: 300px;
     color: white;
     font-size: 2.5em;
-    font-family: serif;
+    /*font-family: serif;*/
 }
 #span-activity a{
     text-decoration: none;
@@ -115,7 +115,7 @@ body{
     top: 270px;
     color: white;
     font-size: 3em;
-    font-family: serif;
+    /*font-family: serif;*/
 }
 #span-armadillo a{
     text-decoration: none;
@@ -135,7 +135,7 @@ body{
     top: 280px;
     color: white;
     font-size: 3em;
-    font-family: serif;
+    /*font-family: serif;*/
 }
 #span-certificates a{
     text-decoration: none;
@@ -155,7 +155,7 @@ body{
     top: 280px;
     color: white;
     font-size: 3em;
-    font-family: serif;
+    /*font-family: serif;*/
 }
 #span-operation a{
     text-decoration: none;
@@ -175,7 +175,7 @@ body{
     top: 250px;
     color: white;
     font-size: 3em;
-    font-family: serif;
+    /*font-family: serif;*/
 }
 #span-tech-team a{
     text-decoration: none;
@@ -196,12 +196,12 @@ body{
 .span-contact{
     z-index: 8;
     color: white;
-    font-family: serif;
+    /*font-family: serif;*/
 }
 #contact-name{
     position: relative;
     font-size: 3em;
-    font-family: 文泉驿等宽微米黑;
+    /*font-family: 文泉驿等宽微米黑;*/
 }
 #contact-site{
     position: relative;
@@ -234,10 +234,171 @@ body{
 
 
 
+
+
+
+
+
+/*针对所有页面的描述性段落*/
 .description{
     width: 70%;
-    position: absolute;
-    top: 120px;
     left: 15%;
     font-size: 1.5em;
 }
+
+
+
+
+
+/*品牌CSS*/
+.screen-final-brand{
+    position: relative;
+    top: 50px;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+.brand-screen-one{
+    height: 900px;
+    background-color: slategrey;
+    position: relative;
+}
+.brand-screen-two{
+    height: 900px;
+    background-color: slategrey;
+    position: relative;
+    top: 10px;
+}
+.brand-screen-three{
+    height: 900px;
+    background-color: darkslategrey;
+    position: relative;
+    top: 20px;
+}
+.brand-screen-four{
+    height: 900px;
+    background-color: darkslategrey;
+    position: relative;
+    top: 30px;
+}
+.brand-screen-five{
+    height: 900px;
+    background-color: darkslategrey;
+    position: relative;
+    top: 40px;
+}
+#company-intro-one{
+    position: relative;
+    background-color: darksalmon;
+    top: 700px;
+}
+#company-intro-two{
+    position: relative;
+    background-color: cornflowerblue;
+    top: 600px;
+}
+#company-intro-three{
+    position: relative;
+    background-color: slategrey;
+    top: 850px;
+}
+
+
+
+
+
+/*工作机会CSS*/
+.screen-final-jobs{
+    position: relative;
+    top: 20px;
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+.jobs-screen-one{
+    position: relative;
+    width: 100%;
+    height: 680px;
+    overflow: hidden;
+}
+#jobs-slogan{
+    position: absolute;
+    top: 430px;
+    font-size: 1.9em;
+    z-index: 8;
+    color: black;
+    background-color: #d9d9df;
+    opacity: 0.7;
+    text-align: center;
+    border-radius:9px;
+}
+.jobs-screen-two{
+    position: relative;
+    top: 10px;
+    width: 100%;
+    height: 680px;
+    overflow: hidden;
+    background-color: slategrey;
+}
+.job-quiz{
+    position: absolute;
+    left: 20%;
+    top: 100px;
+    font-size: 2.3em;
+    color: white;
+    height: 80px;
+    line-height: 80px;
+    border-radius:9px;
+    opacity: 0.9;
+}
+.job-kind{
+    position: absolute;
+    top: 200px;
+    height: 290px;
+    width: 280px;
+    width: 280px;
+    background-color: #d9d9df;
+    float: left;
+    margin: 50px;
+    padding: 10px;
+    border-radius:10px;
+    transition: 0.3s;
+    opacity: 0.9;
+}
+.job-kind:hover{
+    transform: scale(1.1);
+    box-shadow: 8px 5px 30px 1px black;
+    background-color: #F3F3F3;
+}
+.job-kind div{
+    text-align: center;
+    position: relative;
+    margin-top: 40px;
+}
+.job-kind a{
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+#job-kind-one{
+    left: 150px;
+}
+#job-kind-two{
+    left: 485px;
+}
+#job-kind-three{
+    left: 820px;
+}
+
+/*.jobs-wrapper{*/
+    /*position: relative;*/
+    /*background-color: darksalmon;*/
+    /*left: 15%;*/
+    /*width: 85%;*/
+/*}*/
+/*.job-title{*/
+    /*font-size: 2em;*/
+    /*font-weight: lighter;*/
+/*}*/
+/*.responsibilities{*/
+    /*background-color: chocolate;*/
+/*}*/

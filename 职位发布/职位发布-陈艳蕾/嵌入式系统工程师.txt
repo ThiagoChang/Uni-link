@@ -1,0 +1,31 @@
+Embedded System Engineer
+
+Responsibilities:
+1.Solving the underlying software issues in developing and debugging;
+2.Offering necessary instructions to hardware engineers;
+3.Analyzing and solving the abnormal in the system and locate the problem with analyzing the log.
+4.Optimizing the overall performance and power dissipation.
+5.Writing documentations over system designing.
+
+Requirements；
+1.The C programming language;
+2.Proficient in STM32;
+3.Familiar with ARM architecture;
+4.CS, Electronic Engineering or correlative majors;
+5.Good at communicating with people.
+
+嵌入式系统工程师
+
+职责:
+1.解决开发与调试过程中的软件潜在问题；
+2.为硬件工程师提供必要指导；
+3.根据日志找到问题所在，分析并解决系统中的异常；
+4.优化整体性能和能耗；
+5.撰写系统设计文档。
+
+任职要求：
+1.C语言；
+2.熟练操作STM32；
+3.熟悉ARM架构；
+4.计科、电气工程或者相关专业；
+5.善于与人沟通。

@@ -1,0 +1,41 @@
+电子电气工程师
+
+职责：
+
+1.参与公司产品的研发、安装、调试及维护工作 ；
+
+2.根据项目需要绘制电路原理图和电路板图 ；
+
+3.配合设计项目相关自控方案;
+
+4.负责项目的技术文档的归档 ；
+
+要求：
+
+1.电子、电气或相关专业 ；
+
+2.能使用软件绘制电路原理图和电路板图；
+
+3.熟悉逆变器、DCDC电源模块、光伏发电等应用。
+
+
+
+Electical and Electronic Engineer
+
+Responsibilities:
+1.On the development, deployment, testing and maintainance of the company's products;
+
+2.Drawing the schematic circuit diagrams and PCBs in as required;
+
+3.Taking part in the designing of Automatic Control Solutions;
+
+4.Archiving the documentations of relevant projects.
+
+Requirements:
+
+1.Electrical and Electronic Engineering or correlative majors;
+
+2.Ability of drawing schematic circuit diagrams and PCBs using software;
+
+3.Familiar with the application of inverters, DCDC power modules and photovoltaic power generation.
+

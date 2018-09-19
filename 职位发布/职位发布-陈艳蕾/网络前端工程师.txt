@@ -1,0 +1,40 @@
+Web Front-end developer
+
+Responsibilities:
+
+1.Using the most advanced Front-end tech according to the demand and turing the UI from our designer into a usable webpage;
+
+2.Analyzing and optimizing its performance;
+
+3.Working with Rear-end developers for the development of interaction.
+
+Requirements:
+
+1.Familiar with JavaScript, HTML5, CSS and WebSocket, etc;
+
+2.Know JS shell frames like JQuery React or any other equivalents;
+
+3.Know CSS frames like Bootstrap or others;
+
+4.Familar with packing the code and optimizing it.
+
+网络前端工程师
+
+职责：
+
+1.根据需求使用最优的前端技术，将UI转化成页面;
+
+2.分析、优化前端性能 ;
+
+3.与后端工程师合作，高效完成界面交互开发 ;
+
+要求：
+
+1.熟悉 JavaScript、HTML5、CSS、WebSocket 等Web前端开发技术; 
+
+2.熟悉 JQuery，React 或者其他的 JavaScript 开发框架;
+
+3.熟悉 Bootstrap 或者其他的 CSS 框架;
+
+4.熟悉前端代码的打包和优化的流程;
+
